@@ -1,0 +1,11 @@
+.card{
+    height: 75vh;
+    width: 30vw;
+    border-left: 1.5px solid rgba(37, 17, 7, 0.774);
+    border-bottom: 1.5px solid rgba(37, 17, 7, 0.774);
+}
+.b{
+    margin-left: 35px;
+    font-family: 'Nunito', sans-serif;
+    
+}
